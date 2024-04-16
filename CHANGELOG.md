@@ -1,5 +1,20 @@
 # Changelog
 
+## [10.1.1](https://github.com/nodejs/node-gyp/compare/v10.1.0...v10.1.1) (2024-04-16)
+
+
+### Core
+
+* proc-log@4.0.0 ([#3022](https://github.com/nodejs/node-gyp/issues/3022)) ([141aa6b](https://github.com/nodejs/node-gyp/commit/141aa6bf029e6f984be8ea98aaf985e5df894082))
+* tar@6.2.1 ([#3021](https://github.com/nodejs/node-gyp/issues/3021)) ([b22d5ee](https://github.com/nodejs/node-gyp/commit/b22d5eef861892c968052ffc1c71b551f738163b))
+
+
+### Doc
+
+* `node-pre-gyp` is no longer maintained ([#3015](https://github.com/nodejs/node-gyp/issues/3015)) ([93186f1](https://github.com/nodejs/node-gyp/commit/93186f10c966b4148fc500e48f8cbffacccdfa3c))
+* add the way to configuring Python dependency for Windows PowerShell ([#2996](https://github.com/nodejs/node-gyp/issues/2996)) ([9fd7936](https://github.com/nodejs/node-gyp/commit/9fd7936f0d7232a8a79e6a7b6cbfb814d9042b13))
+* Installation -- Python &gt;= v3.12 requires `node-gyp` >= v10 ([#3010](https://github.com/nodejs/node-gyp/issues/3010)) ([a6b48fc](https://github.com/nodejs/node-gyp/commit/a6b48fca9993e54d757cd110f6b41f8200d99ca4))
+
 ## [10.1.0](https://github.com/nodejs/node-gyp/compare/v10.0.1...v10.1.0) (2024-03-13)
 
 
